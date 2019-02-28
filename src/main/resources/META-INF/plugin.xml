@@ -1,0 +1,24 @@
+<idea-plugin>
+    <id>com.mallowigi.materialthemes</id>
+    <name>Material Themes</name>
+    <vendor email="heliosaian@gmail.com" url="http://www.yourcompany.com">Elior Boukhobza (mallowigi)</vendor>
+
+    <description><![CDATA[
+    This is a collection of themes to be used with the Material Theme plugin.
+    ]]></description>
+
+    <depends>com.intellij.modules.lang</depends>
+    <depends>com.chrisrm.idea.MaterialThemeUI</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <bundledColorScheme path="colors/ShadesOfPurple" id="Shades Of Purple"/>
+    </extensions>
+
+    <extensions defaultExtensionNs="com.chrisrm.idea.MaterialThemeUI">
+        <bundledTheme name="Shades Of Purple" path="/themes/shadesOfPurple"/>
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+    </actions>
+</idea-plugin>

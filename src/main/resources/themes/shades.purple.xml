@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>shades.purple</id>
+  <editorColorsScheme>Shades of Purple</editorColorsScheme>
+  <dark>true</dark>
+  <name>Shades of Purple</name>
+  <colors>
+    <color id="background" value="2d2b55ff"/>
+    <color id="foreground" value="ffffffff"/>
+    <color id="text" value="a599e9ff"/>
+    <color id="highlight" value="fad000ff"/>
+    <color id="selectionBackground" value="b362ff88"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="1e1e3fff"/>
+    <color id="secondaryBackground" value="222244ff"/>
+    <color id="disabled" value="a599e980"/>
+    <color id="contrast" value="1e1e3fff"/>
+    <color id="tableSelected" value="262650ff"/>
+    <color id="secondBorder" value="2d2b55ff"/>
+    <color id="treeSelection" value="2d2b5596"/>
+    <color id="notifications" value="6943ff80"/>
+    <color id="accent" value="fad000ff"/>
+    <color id="excluded" value="3e3e67ff"/>
+  </colors>
+  <themeId>shades.purple</themeId>
+</mtTheme>
