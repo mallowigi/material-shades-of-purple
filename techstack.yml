@@ -1,7 +1,7 @@
 repo_name: mallowigi/material-shades-of-purple
-report_id: 749740d83b3438546903b1845cfc4ed5
+report_id: c3daa54b8770ede760827418017c9e10
 repo_type: Public
-timestamp: '2023-11-19T07:53:33+00:00'
+timestamp: '2023-12-14T13:14:10+00:00'
 requested_by: mallowigi
 provider: github
 branch: master
@@ -25,6 +25,6 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
-  detection_source: gradlew.bat
+  detection_source: build.gradle
   last_updated_by: Mallowigi
   last_updated_on: 2019-02-28 13:50:31.000000000 Z
